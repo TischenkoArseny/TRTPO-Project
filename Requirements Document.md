@@ -13,14 +13,7 @@
 
 Окно выбора адресов по умолчанию или переход в ручной режим.
 
- 
-
-
-
-
-
-
-
+ (https://github.com/TischenkoArseny/TRTPO-Project/blob/master/1.png)
 
 Окно ввода и отправки базовых настроек
 
