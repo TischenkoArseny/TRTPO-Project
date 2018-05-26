@@ -17,11 +17,15 @@
 
 Окно ввода и отправки базовых настроек
 
- 
+ ![Рисунок 2](https://github.com/TischenkoArseny/TRTPO-Project/blob/master/2.png)
 
 Окно авторизации в ручном режиме
  
+ ![Рисунок 3](https://github.com/TischenkoArseny/TRTPO-Project/blob/master/3.png)
+ 
 Окно ввода команд в ручном режиме
+
+ ![Рисунок 4](https://github.com/TischenkoArseny/TRTPO-Project/blob/master/4.png)
  
 2.3 Характеристики пользователей
 
