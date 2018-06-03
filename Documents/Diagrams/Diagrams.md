@@ -58,7 +58,7 @@
 
 # Диаграмма классов #
 
-![Диаграмма классов](https://github.com/TischenkoArseny/TRTPO-Project/blob/master/Documents/Diagrams/Class_Diagram.jpg)
+![Диаграмма классов](https://github.com/TischenkoArseny/TRTPO-Project/blob/master/Documents/Diagrams/ClassDiagram.jpg)
 
 # Диаграмма компонентов #
 
